@@ -58,12 +58,12 @@ Country Support: Currently supports Egypt (Cairo) & Egypt (Alexandria), offline 
   Country: Egypt - State: Alexandria
 </h4>
 <h4>------------------------------------------------------------------while it's in action</h4>
-<img class="img" src="assets/img/WorkingPrayeReminderPrayerTimesTAB.png"></a></div>
-<img class="img" src="assets/img/WorkingPrayeReminderCountryTAB.png"></a></div>
-<img class="img" src="assets/img/WorkingPrayeReminderSettingsTAB.png"></a></div>
-<img class="img" src="assets/img/WorkingPrayeReminderAboutTAB.png"></a></div>
-<img class="img" src="assets/img/WorkingPrayeReminderChangeLogTAB.png"></a></div>
-<img class="img" src="assets/img/WorkingPrayeReminderTodayTAB.png"></a></div></div>
+<img class="img" src="assets/img/WorkingPrayerReminderPrayerTimesTAB.png"></a></div>
+<img class="img" src="assets/img/WorkingPrayerReminderCountryTAB.png"></a></div>
+<img class="img" src="assets/img/WorkingPrayerReminderSettingsTAB.png"></a></div>
+<img class="img" src="assets/img/WorkingPrayerReminderAboutTAB.png"></a></div>
+<img class="img" src="assets/img/WorkingPrayerReminderChangeLogTAB.png"></a></div>
+<img class="img" src="assets/img/WorkingPrayerReminderTodayTAB.png"></a></div></div>
 <h4>while it's not in action--------------------------------------------------------------</h4>
 <img class="img" src="assets/img/PrayeReminderPrayerTimesTAB.png"></a></div>
 <img class="img" src="assets/img/PrayerReminderCountryTAB.png"></a></div>
